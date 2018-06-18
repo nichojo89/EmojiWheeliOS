@@ -12,8 +12,8 @@ namespace App1
 		public MainPage()
 		{
 			InitializeComponent();
-            //this.Content = new EmojiWheel();
-            this.Content = new Label() { Text = "Hello Droid" };
+            this.Content = new EmojiWheel();
+            //this.Content = new Label() { Text = "Hello Droid" };
         }
 	}
 }
